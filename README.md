@@ -1,5 +1,8 @@
 # Data_Structures_Projects
 
-## Soru 1
+## Selection Sort
 
-### Selection Sort
+### Soru 1-)
+          ```
+                                   [7,3,5,8,2,9,4,15,6]
+          ```
